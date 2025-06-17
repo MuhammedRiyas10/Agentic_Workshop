@@ -1,0 +1,5 @@
+[Thread] How does memoization work in JavaScript?
+
+[Comment1] Memoization is about caching the output of function calls so you don't recalculate the same result.
+[Comment2] React’s useMemo and useCallback hooks are perfect examples. They remember previous results unless dependencies change.
+[Comment3] I use it to avoid expensive calculations during re-rendering in React apps.

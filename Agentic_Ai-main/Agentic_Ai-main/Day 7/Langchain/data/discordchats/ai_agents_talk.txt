@@ -1,0 +1,4 @@
+[Dev_A] I think building modular agents using LangChain is better than chaining prompts manually.
+[Dev_B] Agree. You can combine skill extractors, memory, and tools like FAISS in a flow.
+[Dev_C] I made a flow to extract AI concepts from YouTube videos and recommend learning materials based on it.
+[Dev_D] You should check LangGraph if you want structured control over agent steps.

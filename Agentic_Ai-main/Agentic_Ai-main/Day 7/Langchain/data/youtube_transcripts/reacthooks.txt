@@ -1,0 +1,6 @@
+In this video, we explore React Hooks like useState and useEffect. 
+These let you use state and side effects in functional components. 
+We also demonstrate memoization using useMemo to optimize performance in rendering large lists.
+
+By the end, you'll understand how to manage state without writing class components, 
+and how hooks like useContext and useReducer help build scalable apps.

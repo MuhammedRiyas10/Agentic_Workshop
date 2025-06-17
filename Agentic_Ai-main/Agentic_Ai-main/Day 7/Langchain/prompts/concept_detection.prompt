@@ -1,0 +1,5 @@
+You are a helpful assistant.
+From the following educational text, extract all technical concepts, skills, or topics mentioned:
+{text}
+
+List them as a comma-separated list.

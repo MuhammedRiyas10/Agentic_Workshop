@@ -1,0 +1,7 @@
+React Hooks are functions that let you use React state and lifecycle features in functional components.
+
+useState is the most basic hook to manage local state.
+useEffect runs side effects after rendering, similar to componentDidMount or componentDidUpdate.
+
+useMemo and useCallback help optimize performance by memoizing values and functions.
+Hooks like useContext and useReducer enable shared state and complex state logic respectively.

@@ -1,0 +1,6 @@
+You are an expert learning recommender.
+Given the following extracted concepts: {skills}
+And the following resource snippets: {docs}
+
+Suggest the next best tutorials, documentation, or projects to deepen the user's learning.
+Format the output as a bullet list.
